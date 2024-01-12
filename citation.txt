@@ -1,0 +1,6 @@
+@inproceedings{REPO240,
+    author = {Gorti, Satya Krishna and Vouitsis, No{\"e}l and Ma, Junwei and Golestan, Keyvan and Volkovs, Maksims and Garg, Animesh and Yu, Guangwei},
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval}",
+    year = "2022"
+}
